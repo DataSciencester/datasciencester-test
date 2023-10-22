@@ -15,6 +15,10 @@ L'objectif de cette analyse est de comprendre les caractéristiques des passager
 1. **Clôner ce référentiel :** Commencez par clôner ce référentiel GitHub localement sur votre machine.
 
    ```
+   git clone https://github.com/DataSciencester/datasciencester-test.git
+   ```
+
+   ```
    git clone git@github.com:DataSciencester/datasciencester-test.git
    ```
 
